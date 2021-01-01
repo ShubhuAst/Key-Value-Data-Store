@@ -42,3 +42,7 @@ Eg.:
      obj.createFile();
 
      obj.addData("Shubham",9868);
+
+
+
+BUILD AND TESTED ON 'macOS'.
