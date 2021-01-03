@@ -10,7 +10,7 @@ This File Contains 2 .jar file
  
 These Both file need to add in your project in order to use the functionality.
 
-This jar files allow you to CREATE,READ and DELETE the data in the file.
+This jar files allow you to CREATE,READ and DELETE the data in the file, also the functions are Thread-safe.
 
 To use all the functionality of this project you can call any the Function by creating "Object" of class "DataStore".
 
